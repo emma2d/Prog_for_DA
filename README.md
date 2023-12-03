@@ -1,5 +1,9 @@
 # Prog_for_DA
 
+## Project 1 - Simulated Data Set Analysis 
+
+This project is set to establish the learning objectives have been met for Programming for Data Analysis module. The requires for the project are detailed in the problem stsement below. 
+
 ### Problem statement
 
 For this project you must create a data set by simulating a real-world phenomenon of
@@ -24,4 +28,7 @@ gives an example project idea.
 Job satifaction and employee performance file:///C:/Users/kellye.GLOBAL/Downloads/10-Article%20Text-10-1-10-20190729.pdf The Millennium University Journal; Vol. 1, No. 1; 2016
 ISSN 2225-2533
 Published by The Millennium University accessed 06 Nov 2023
+
+
+
 
